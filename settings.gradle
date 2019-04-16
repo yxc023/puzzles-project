@@ -1,0 +1,7 @@
+rootProject.name = 'puzzles-project'
+
+enableFeaturePreview('IMPROVED_POM_SUPPORT')
+enableFeaturePreview('STABLE_PUBLISHING')
+include 'puzzles-application'
+include 'puzzles'
+
